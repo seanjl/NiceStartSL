@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NICESTART SL</string>
+    <string name="navigation_drawer_open">Open nav drawer</string>
+    <string name="navigation_drawer_close">Close nav drawer</string>
+    <string name="shiny">Shiny</string>
+    <string name="matte">Matte</string>
+    <string name="metals">Metals</string>
+    <string name="more">More</string>
+    <string name="my_trees">Mis Trees</string>
+    <string name="my_forests">Mis Forests</string>
+    <string name="deluxe_tree">Deluxe Trees</string>
+    <string name="premium_tree">Premium Tree</string>
+    <string name="forest_broadleaf">Broadleaf Forest</string>
+    <string name="sm_5000">5000m2</string>
+    <string name="phonenumber">+34 650 40 90 50</string>
+    <string name="mobile">Mobile</string>
+    <string name="emailValue">broadleafforrest@gmail.com</string>
+    <string name="btn_context">Context</string>
+</resources>
